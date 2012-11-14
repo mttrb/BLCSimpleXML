@@ -1,5 +1,5 @@
 //
-//  BLCXML.m
+//  BLCSimpleXML.m
 //  XML Parser
 //
 //  Created by Matthew Robinson on 6/11/12.

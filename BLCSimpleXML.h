@@ -1,5 +1,5 @@
 //
-//  BLCXML.h
+//  BLCSimpleXML.h
 //  XML Parser
 //
 //  Created by Matthew Robinson on 6/11/12.
